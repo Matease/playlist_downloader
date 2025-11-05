@@ -1,0 +1,8 @@
+requests
+bs4
+google-api-python-client
+python-dotenv
+yt-dlp
+mutagen
+rapidfuzz
+pyinstaller
